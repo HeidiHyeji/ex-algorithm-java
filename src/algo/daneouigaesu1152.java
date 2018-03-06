@@ -22,6 +22,7 @@ public class daneouigaesu1152{
 	public static void main(String[] args){
 		daneouigaesu1152 m=new daneouigaesu1152();
 		m.run();
+		
 	}
 
 }
