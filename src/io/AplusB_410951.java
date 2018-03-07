@@ -1,10 +1,9 @@
 package io;
 import java.util.Scanner;
-public class AplusBminus310950 {
+public class AplusB_410951 {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
-		int T=sc.nextInt();
-		for(int i=0;i<T;i++){
+		while(sc.hasNextInt()) {
 			System.out.println(sc.nextInt()+sc.nextInt());
 		}
 	}

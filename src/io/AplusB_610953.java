@@ -1,7 +1,7 @@
 package io;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-public class AplusBminus6 {
+public class AplusB_610953 {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
 		int T = Integer.parseInt(sc.nextLine());
