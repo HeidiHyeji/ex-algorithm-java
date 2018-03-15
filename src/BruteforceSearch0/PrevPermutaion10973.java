@@ -1,6 +1,6 @@
 package BruteforceSearch0;
 import java.util.Scanner;
-public class PrevPermutaion10972 {
+public class PrevPermutaion10973 {
 	static String toString(int[] arr) {
 		String str="";
 		for(int i=0;i<arr.length;i++) {
